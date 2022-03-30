@@ -8,7 +8,7 @@
 import scrapy
 
 
-class WorldometersItem(scrapy.Item):
+class BanksamericaItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
